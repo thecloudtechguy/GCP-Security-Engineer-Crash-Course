@@ -1,0 +1,8 @@
+
+
+  Welcome to the GCP Cloud Security Certification Crash Course.
+
+Here is a SSN/TIN  065-30-0444 which is of course not real. 
+
+
+When we run the template(Job) it will scan Cloud Storage objects and provide results if positive. 
